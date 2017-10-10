@@ -3,4 +3,4 @@ python:
   - "3.6"
 
 install:
-  flask/bin/pip3 install -r requirements.txt
+  pip3 install -r requirements.txt
