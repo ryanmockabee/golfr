@@ -3,4 +3,5 @@ python:
   - "3.6"
 
 install:
-  pip3 install -r golfr/requirements.txt
+  pip install .
+  pip install -r golfr/requirements.txt
