@@ -1,4 +1,4 @@
-from app import create_app
+from flask import create_app
 
 @pytest.fixture
 def app():
